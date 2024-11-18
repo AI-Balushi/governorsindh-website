@@ -1,8 +1,8 @@
-import NavBar from "./component/NavBar";
+// import NavBar from "./component/Navbar";
 import Heroes from "./component/Heroes";
 import CourseDetail from "./component/CourseDetail";
 import CourseSequence from "./component/Sequence&Advance";
-import Footer from "./component/Footer";
+// import Footer from "./component/Footer";
 import Link from "next/link";
 
 
